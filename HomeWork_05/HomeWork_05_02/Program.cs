@@ -30,7 +30,6 @@ namespace HomeWork_05_02
         static void Main(string[] args)
         {
             TextReverse(TextUserArray());
-
         }
     }
 }
