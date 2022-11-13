@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bots", "bots.csproj", "{D9EEA467-5DC6-44C9-A89E-D0BCD544C624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9EEA467-5DC6-44C9-A89E-D0BCD544C624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EEA467-5DC6-44C9-A89E-D0BCD544C624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EEA467-5DC6-44C9-A89E-D0BCD544C624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EEA467-5DC6-44C9-A89E-D0BCD544C624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84D62213-E9E6-4C41-BB2B-FE659D174C5E}
+	EndGlobalSection
+EndGlobal
